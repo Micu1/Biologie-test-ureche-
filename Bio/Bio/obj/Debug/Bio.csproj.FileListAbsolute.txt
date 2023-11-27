@@ -1,0 +1,11 @@
+C:\Users\alexx\source\repos\Bio\Bio\bin\Debug\Bio.exe.config
+C:\Users\alexx\source\repos\Bio\Bio\bin\Debug\Bio.exe
+C:\Users\alexx\source\repos\Bio\Bio\bin\Debug\Bio.pdb
+C:\Users\alexx\source\repos\Bio\Bio\obj\Debug\Bio.csproj.AssemblyReference.cache
+C:\Users\alexx\source\repos\Bio\Bio\obj\Debug\Bio.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexx\source\repos\Bio\Bio\obj\Debug\Bio.Form1.resources
+C:\Users\alexx\source\repos\Bio\Bio\obj\Debug\Bio.Properties.Resources.resources
+C:\Users\alexx\source\repos\Bio\Bio\obj\Debug\Bio.csproj.GenerateResource.cache
+C:\Users\alexx\source\repos\Bio\Bio\obj\Debug\Bio.csproj.CoreCompileInputs.cache
+C:\Users\alexx\source\repos\Bio\Bio\obj\Debug\Bio.exe
+C:\Users\alexx\source\repos\Bio\Bio\obj\Debug\Bio.pdb
